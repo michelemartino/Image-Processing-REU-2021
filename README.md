@@ -2,27 +2,25 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This project reads image files and converts them into array.
+The project also contains several implementations of image processing through the use of different filter matrices and operations(concolution, for example).
+Effects applied to image include blur,sharp and edge.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Necessary packages to install
 * numpy
   ```sh
   pip install numpy
   ```
 * PIL/Pillow
   ```sh
-  npm install npm@latest -g
-  ```
-* Math
-  ```sh
-  npm install npm@latest -g
+  python -m pip install --upgrade pip
+  python -m pip install --upgrade Pillow
   ```
 
 ### Running the code
-```sh
+  ```sh
   python codesession2.py
   ```
 
