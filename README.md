@@ -2,9 +2,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project reads image files and converts them into array.
-The project also contains several implementations of image processing through the use of different filter matrices and operations(concolution, for example).
-Effects applied to image include blur,sharp and edge.
+This project reads image files and converts them into arrays.
+The project also contains several implementations of image processing through the use of different filter matrices and operations(convolution, for example).
+Effects applied to the image include blur,sharp and edge.
 
 ### Prerequisites
 
